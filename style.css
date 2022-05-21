@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+background-color: #CDEDAD;
+text-align: center;
+
+}
+
+.titulo{
+
+ color: #1732dc;
+ font-size: 40px;   
+}
+
+.boton_1,.boton_2 {
+
+    background-color: rgb(39, 164, 23);
+    border-radius: 20px;
+    color: #f4f5f9;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.botonHome{
+
+    background-color: rgb(39, 164, 23);
+    border-radius: 20px;
+    color: #f4f5f9;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    
+
+}
+
+
+.boton_1:hover{
+
+    color: rgb(11, 23, 240);
+}
+
+.boton_2:hover{
+
+    color: rgb(11, 23, 240);
+}
+
+.img{
+  
+    border-radius: 100px;
+}
+
